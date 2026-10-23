@@ -3,7 +3,7 @@
 Testes de segurança neste site são bem-vindos. Ele é estático e não tem login nem banco de dados.
 
 ## No escopo
-- O site publicado no GitHub Pages deste repositório.
+- O site em https://fork-community.pages.dev (inclui /painel, /entrar e /api/*).
 - O código deste repositório: build, workflow e pós-build.
 
 ## Fora do escopo
